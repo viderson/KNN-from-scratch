@@ -42,11 +42,6 @@ We use the classic **Iris dataset**, a multi-class classification problem involv
 - numpy
 - Jupyter Notebook
 
-Install dependencies with:
-
-```bash
-pip install -r requirements.txt
-```
 
 
 ## ✍️ Author
