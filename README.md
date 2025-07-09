@@ -48,8 +48,6 @@ Install dependencies with:
 pip install -r requirements.txt
 ```
 
-> ⚠️ This implementation is for educational purposes only and may not be optimized for production use.
 
 ## ✍️ Author
-
-Created with ❤️ for learning machine learning from the ground up.
+FW
